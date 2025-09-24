@@ -1,6 +1,6 @@
 public class Calculator {
     public int add(int a, int b) {
-        return a + 2 * b; //added bug again to see how failed tests show up on GitHub Classroom
+        return a + b; //fixed bug to see how tests show up on GitHub Classroom
     }
 
     public int subtract(int a, int b) {
